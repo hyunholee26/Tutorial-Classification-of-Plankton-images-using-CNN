@@ -5,7 +5,7 @@
 
 ## 2. 활용 데이터
   - 본 튜토리얼을 위해 Kaggle의 [Plankton Challenge](https://www.kaggle.com/c/plankton-challenge/data) 컴피티션에서 사용된 데이터를 이용하였습니다. 훈련 데이터셋을 변경하여 다양한 분야에 응용가능합니다.
-  - 실제 데이터에는 121종의 플랑크톤 이미지가 있지만, 본 튜토리얼에서는 4종만을 이용하였습니다. 사용한 폴더 구조는 아래와 같습니다.
+  - 실제 데이터에는 121종의 플랑크톤 이미지가 있지만, **본 튜토리얼에서는 4종만을 이용**하였습니다. 사용한 폴더 구조는 아래와 같습니다.
 
 ![](./folder_structure.png)
 
@@ -18,7 +18,7 @@
   - test 폴더에는 학습된 모형의 성능평가를 위한 플랑크톤 이미지가 포함되어 있습니다. 
   
 ## 2. CNN(Convolutional Neural Network)
-  - CNN은 Convolutional Neural Networks의 약자로 딥러닝에서 주로 이미지나 영상 데이터 처리에 사용되며, 이미지 분류에서 우수한 성능을 보입니다.
+  - CNN은 Convolutional Neural Networks의 약자로 딥러닝에서 주로 이미지나 영상 데이터 처리에 사용되며, **이미지 분류에서 우수한 성능**을 보입니다.
 
 ## 3. Tutoral 주요 내용
   - 합성곱신경망 모형 훈련 및 예측
