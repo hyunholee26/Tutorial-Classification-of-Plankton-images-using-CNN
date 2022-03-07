@@ -15,7 +15,7 @@
 |:---:|:---:|:---:|:---:|
 |![](./acantharia_protist1.jpg)|![](./chaetognath_sagitta1.jpg)|![](./copepod_calanoid1.jpg)|![](./fecal_pellet1.jpg)|
     
-  - test 폴더에는 학습된 모형의 성능평가를 위한 플랑크콘 이미지가 포함되어 있습니다. 
+  - test 폴더에는 학습된 모형의 성능평가를 위한 플랑크톤 이미지가 포함되어 있습니다. 
   
 ## 2. CNN(Convolutional Neural Network)
   - CNN은 Convolutional Neural Networks의 약자로 딥러닝에서 주로 이미지나 영상 데이터 처리에 사용되며, 이미지 분류에서 우수한 성능을 보입니다.
