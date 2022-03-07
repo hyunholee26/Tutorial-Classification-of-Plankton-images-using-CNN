@@ -4,7 +4,7 @@
   - 본 튜토리얼은 이미지 분류에 뛰어난 성능을 보이는 합성곱신경망을 이용하여, **수중에 사는 플랑크톤의 이미지를 분류하는 기능**을 파이썬으로 구현하는 튜토리얼입니다.  
 
 ## 2. 활용 데이터
-  - 본 튜토리얼을 위해 Kaggle의 [Plankton Challenge](https://www.kaggle.com/c/plankton-challenge/data) 컴피티션에서 사용된 데이터를 이용하였습니다. 훈련셋을 변경하여 다양한 분야에 응용가능합니다.
+  - 본 튜토리얼을 위해 Kaggle의 [Plankton Challenge](https://www.kaggle.com/c/plankton-challenge/data) 컴피티션에서 사용된 데이터를 이용하였습니다. 훈련 데이터셋을 변경하여 다양한 분야에 응용가능합니다.
   - 실제 데이터에는 121종의 플랑크톤 이미지가 있지만, 본 튜토리얼에서는 4종만을 이용하였습니다. 사용한 폴더 구조는 아래와 같습니다.
 
 ![](./folder_structure.png)
