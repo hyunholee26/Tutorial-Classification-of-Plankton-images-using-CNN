@@ -7,7 +7,7 @@
   - 본 튜토리얼은 4종의 플랑크톤 데이터를 활용하였습니다. 해당 데이터는 Kaggle의 [Plankton Challenge](https://www.kaggle.com/c/plankton-challenge/data)에서 다운로드하였으며,  
   - 데이터 저작권 등의 이유로 데이터를 직접 업로드하지는 않았습니다. 
   - 폴더 구조는 아래와 같습니다.
-  ![](./folder_structure.png)
+![](./folder_structure.png)
   
 ## 2. CNN(Convolutional Neural Network)
   - CNN은 Convolutional Neural Networks의 약자로 딥러닝에서 주로 이미지나 영상 데이터를 처리에 사용됨
